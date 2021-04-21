@@ -4,5 +4,5 @@
 <h2>Tela de Reclamações</h2>
 <img src="https://github.com/thayanemenezes/E-relations/blob/main/assets/images/print-2.png">
 <h3> Com a aba reclamações do sistema, fazer análises e buscar melhorias no e-commerce vai ser muito mais fácil, tendo em vista que estará tudo armazenado. O cadastro das reclamações podem ser feitas pelo próprio cadastrador/responsável pelo atendimento no ato do registro do requerimento em questão.</h3>
-<h4>OBS: O projeto ainda está em desenvolvimento</h4>
+<h4>OBS: O projeto irá migrar para REACTJS</h4>
 
